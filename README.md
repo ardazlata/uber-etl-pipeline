@@ -1,5 +1,4 @@
-# Data Engineering GCP Project
-## Uber Data Analytics
+# Uber Data Analytics
 
 ### Introduction
 
